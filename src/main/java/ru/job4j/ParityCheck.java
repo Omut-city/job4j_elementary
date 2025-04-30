@@ -4,6 +4,9 @@ package ru.job4j;
  * Проверка четности числа
  *
  * git commit --amend
+ * Изменение 1
+ * Изменение 2
+ * Изменение 3
  */
 public class ParityCheck {
     public static void main(String[] args) {
